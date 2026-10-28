@@ -7,6 +7,7 @@
 
 *FANTUM AN FICTION*
 
-[ FOLKLORE ](#overview)　·　[ MILITARY ](#directives)　·　[ UNITY ](#personnel)
+[ FOLKLORE ](https://whatisfolklore.org/)　·　[ MILITARY ]([#directives](https://whatisfolklore.org/))　
+
 
 </div>
