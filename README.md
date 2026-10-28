@@ -7,7 +7,7 @@
 
 *FANTUM AN FICTION*
 
-[ FOLKLORE ](https://whatisfolklore.org/)　·　[ MILITARY ]([#directives](https://whatisfolklore.org/))　
+[ FOLKLORE ](https://whatisfolklore.org/)　·　[ MILITARY ]([#directives](https://whatisfolklore.org/)　
 
 
 </div>
