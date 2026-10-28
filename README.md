@@ -11,7 +11,4 @@
 
 JOIN OUR [ DISCORD SERVER . . CLICK HERE ](https://discord.gg/PKWz7dHS5Z)
 </div>
-
-[<p align="center">
-  <img src="https://files.catbox.moe/tkvq4a.jpg" width="600">
-</p>](https://ibb.co/m5HSQXDq)
+<a href="https://ibb.co/m5HSQXDq"><img src="https://i.ibb.co/TMHrzbv8/2ca837d8eb55b3a639ee15e44de44599.jpg" alt="2ca837d8eb55b3a639ee15e44de44599" border="0"></a>
