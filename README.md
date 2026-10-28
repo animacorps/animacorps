@@ -12,4 +12,4 @@
 JOIN OUR [ DISCORD SERVER . . CLICK HERE ](https://discord.gg/PKWz7dHS5Z)
 </div>
 
-https://files.catbox.moe/tkvq4a.jpg
+![Image](https://files.catbox.moe/tkvq4a.jpg)
