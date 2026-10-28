@@ -1,19 +1,13 @@
-```text
-╔══════════════════════════════════════════════╗
-║  A N I M A     C O R P S       ║
-║  13TH . MILITARY REGIMENT             ║
-╚══════════════════════════════════════════════╝
-```
 
 <div align="center">
 
-# FIELD ARCHIVE
+# ANIMA  CORPS
 
-`DIVISION  —  [REGIMENT NAME]`
+`13TH  —  MILITARY REGIMENT`
 
-*Where myth becomes evidence.*
+*FANTUM AN FICTION*
 
-[OVERVIEW](#overview) · [DIRECTIVES](#directives) · [PERSONNEL](#personnel) · [ARCHIVES](#archives) · [ENLISTMENT](#enlistment)
+[OVERVIEW](#overview) · [DIRECTIVES](#directives) · [PERSONNEL](#personnel) 
 
 </div>
 
@@ -72,61 +66,3 @@ The regiment operates at the intersection of military discipline and unexplained
 - Quartermaster
 - Medical Officer
 - Communications Officer
-
----
-
-### `03 / ARCHIVES`
-
-| File designation | Classification | Status |
-|:--|:--|:--|
-| `ARC-001` | Regional folklore | OPEN |
-| `ARC-002` | Unidentified entities | RESTRICTED |
-| `ARC-003` | Field operation reports | INTERNAL |
-| `ARC-004` | Artifact registry | RESTRICTED |
-| `ARC-005` | Personnel records | CONFIDENTIAL |
-
-<details>
-<summary><code>ARC-001 / FIELD NOTE</code></summary>
-
-**Subject:** Unidentified folkloric presence  
-**Location:** Undisclosed  
-**Threat assessment:** Pending  
-**Assigned unit:** Field Division  
-
-No verified conclusion has been reached. Further investigation is required before classification.
-
-</details>
-
-<details>
-<summary><code>ARC-002 / CLASSIFIED DIRECTIVE</code></summary>
-
-Access to restricted materials requires authorization from the appropriate division officer. Unauthorized distribution of internal records is prohibited.
-
-</details>
-
----
-
-### `04 / ENLISTMENT`
-
-Applicants are evaluated according to discipline, teamwork, reliability, and willingness to contribute to the regiment's operations.
-
-**Application requirements**
-- Preferred name and callsign
-- Desired division
-- Previous regiment experience, if applicable
-- Relevant skills and availability
-
-Submit all applications through the designated recruitment channel.
-
----
-
-<div align="center">
-
-`END OF TRANSMISSION`
-
-**DEPARTMENT OF ANOMALOUS AFFAIRS**
-
-*Some legends are warnings. Others are records of what survived.*
-
-</div>
-```
